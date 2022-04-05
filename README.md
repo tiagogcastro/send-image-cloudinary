@@ -68,11 +68,17 @@ ___
   </p>
   <p>➡ Para ver os comandos disponíveis e dependências instaladas, vá no arquivo package.json. </p>
 
-  <p>➡ Por fim, ao fazer tudo certinho, execute o comando:</p>
+  <p>➡ Por fim, ao fazer tudo certinho, execute o comando para rodar em desenvolvimento:</p>
   <p>
 
     yarn dev
   </p>
+  <p>➡ Por fim, ao fazer tudo certinho, execute o comando para rodar em produção:</p>
+  <p>
+
+    yarn start
+  </p>
+
 
   <p>❤ Pronto, seu projeto está certinho para funcionar.</p>
   <p> Algum erro? Contate-me. </p>
