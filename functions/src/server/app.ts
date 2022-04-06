@@ -1,5 +1,5 @@
 import { v2 as cloudinary} from 'cloudinary';
-import express from 'express';
+const express = require('express');
 
 import '../config/cloudinary';
 
